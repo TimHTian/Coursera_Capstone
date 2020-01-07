@@ -1,2 +1,2 @@
 # Coursera_Capstone
-final project
+This is only used for IBM Capstone project
